@@ -23,13 +23,13 @@ repository               : "chenjiayun212/chenjiayun212.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "陈嘉昀@南雍创造"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "陈嘉昀，南京大学计算机学院2021级本科生，南雍创造创始人。"
+  location         : "江苏南京 / 贵州贵阳"
+  employer         : "Nanjing University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "chenjiayunju@gmail.com" 
 
   # Academic websites
   academia         : # URL
