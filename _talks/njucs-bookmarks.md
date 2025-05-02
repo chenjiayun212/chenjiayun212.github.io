@@ -2,9 +2,9 @@
 title: "南京大学2025届毕业纪念书签"
 collection: talks
 type: "Conference proceedings talk"
-permalink: /talks/2014-03-01-talk-3
+permalink: /talks/njucs-bookmark
 venue: "Testing Institute of America 2014 Annual Conference"
-date: 2014-03-01
+date: 2025-05-02
 location: "Los Angeles, CA, USA"
 ---
 
