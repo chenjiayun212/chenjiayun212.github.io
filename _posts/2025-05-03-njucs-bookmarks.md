@@ -1,5 +1,5 @@
 ---
-title: '德艺双修再赴山海 妙“笔”生华共绘未来——南京大学计算机学院2025届本科毕业纪念书签制作'
+title: '献给富有想象力的我们——南京大学计算机学院2025届本科毕业纪念书签制作'
 date: 2025-05-03
 permalink: /gallery/njucs-bookmarks-2025
 tags:
@@ -8,6 +8,8 @@ tags:
   - 紫金
   - 如烟
 ---
+
+*在学计算机之前，我们都在干什么呢？*
 
 2025年6月，计算机学院2025届本科毕业生的手里都有了一份特殊的纪念品：一张定制的书签。每个人手中的书签款式各不相同，内容各异：有的满载记忆、书写南雍故事，有的奇幻科技、大展计科风采，还有的写满未来愿望、饱含未来憧憬......更为特殊的是，所有的书签创意，均由同学们“自主设计”，写满“独家记忆”。每一张精美的书签，都由同学们的“妙笔”绘出。
 
@@ -31,7 +33,7 @@ dcc 的设计中针对**用户生命经验**做了大量的优化，对现有的
 <div align="center">
   <img src="/assets/dcc/pixel-4.png" alt="北大紫峰" width="40%">
 </div>
-<div style="text-align: center; font-size: 24px;">
+<div style="text-align: center; font-size: 20px;">
   《夜色》
 </div>
 背景灵感来自于北大楼与紫峰大厦同框的画面，节选南大校歌、山谷笔锋做题字。另有花瓣点缀，照亮金陵夜色。
@@ -43,7 +45,7 @@ dcc 的设计中针对**用户生命经验**做了大量的优化，对现有的
 </div>
 
 
-<div style="text-align: center; font-size: 24px;">
+<div style="text-align: center; font-size: 20px;">
   《喜色》
 </div>
 书签以思源、择善二楼中间走廊与花园为背景，明媚阳光映照慵懒小猫。是同学们勤奋刻苦生活中的一抹亮色，更是花好“猫”圆的一丝喜色。
@@ -65,7 +67,7 @@ dcc 的设计中针对**用户生命经验**做了大量的优化，对现有的
 <div align="center">
   <img src="/assets/dcc/ch-1/light.png" alt="天开教泽" width="40%">
 </div>
-<div style="text-align: center; font-size: 24px;">
+<div style="text-align: center; font-size: 20px;">
   《底色》
 </div>
 
@@ -86,7 +88,7 @@ dcc 的设计中针对**用户生命经验**做了大量的优化，对现有的
 <div align="center">
   <img src="/assets/dcc/ch-2/icon.png" alt="蝴蝶程序员" width="50%">
 </div>
-<div style="text-align: center; font-size: 24px;">
+<div style="text-align: center; font-size: 20px;">
   "Defensive programming"
 </div>
 
@@ -109,7 +111,7 @@ C 语言中的 assert 语句是防御性编程的常用技巧，以此作为寄�
 <div align="center">
   <img src="/assets/dcc/ch-2/checksum.png" alt="checksum" width="50%">
 </div>
-<div style="text-align: center; font-size: 24px;">
+<div style="text-align: center; font-size: 20px;">
   "Checksum"
 </div>
 
@@ -126,7 +128,7 @@ C 语言中的 assert 语句是防御性编程的常用技巧，以此作为寄�
 <div align="center">
   <img src="/assets/dcc/ch-2/linux.png" alt="Linux" width="50%">
 </div>
-<div style="text-align: center; font-size: 24px;">
+<div style="text-align: center; font-size: 20px;">
   "Tux"
 </div>
 
@@ -150,7 +152,7 @@ Tux 不仅是 Linux 的吉祥物，更是 **开源文化的象征**，代表着�
 <div align="center">
   <img src="/assets/dcc/ch-2/main.png" alt="同学少年" width="50%">
 </div>
-<div style="text-align: center; font-size: 24px;">
+<div style="text-align: center; font-size: 20px;">
   《同学少年》
 </div>
 
@@ -170,7 +172,7 @@ Tux 不仅是 Linux 的吉祥物，更是 **开源文化的象征**，代表着�
 <div align="center">
   <img src="/assets/dcc/ch-3/next-lap.png" alt="next lap" width="50%">
 </div>
-<div style="text-align: center; font-size: 24px;">
+<div style="text-align: center; font-size: 20px;">
   "Next Lap"
 </div>
 
@@ -187,7 +189,7 @@ Tux 不仅是 Linux 的吉祥物，更是 **开源文化的象征**，代表着�
 <div align="center">
   <img src="/assets/dcc/ch-3/blues.png" alt="星空" width="50%">
 </div>
-<div style="text-align: center; font-size: 24px;">
+<div style="text-align: center; font-size: 20px;">
   《星空》
 </div>
 
@@ -202,7 +204,7 @@ Tux 不仅是 Linux 的吉祥物，更是 **开源文化的象征**，代表着�
 <div align="center">
   <img src="/assets/dcc/ch-3/ruyan.png" alt="如烟" width="50%">
 </div>
-<div style="text-align: center; font-size: 24px;">
+<div style="text-align: center; font-size: 20px;">
   《星星太阳万物都听我的指挥》
 </div>
 
@@ -217,13 +219,22 @@ Tux 不仅是 Linux 的吉祥物，更是 **开源文化的象征**，代表着�
 <div align="center">
   <img src="/assets/dcc/ch-3/juzhe.png" alt="juzhe" width="50%">
 </div>
-<div style="text-align: center; font-size: 24px;">
+<div style="text-align: center; font-size: 20px;">
   《愿保持终生的学习和思考》
 </div>
 
+---
 
+<div align="center">
+  <img src="/assets/dcc/ch-3/green.png" alt="juzhe" width="50%">
+</div>
+<div style="text-align: center; font-size: 20px;">
+  《生生不息》
+</div>
 
 ---
+
+
 
 当时只道是寻常，小小的一份书签，写不尽这段岁月的弥足珍贵。真心地希望这份特殊的礼物可以为同学们将本科生涯的句号画得圆满些。“妙笔”今日画的是图案、是记忆，明日就将绘出人生的新篇章！祝愿2021级的同学们毕业快乐，前途光明！
 
