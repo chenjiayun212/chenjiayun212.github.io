@@ -31,7 +31,7 @@ dcc 的设计中针对**用户生命经验**做了大量的优化，对现有的
 
 
 <div align="center">
-  <img src="/assets/dcc/pixel-4.png" alt="北大紫峰" width="40%">
+  <img src="{{ site.baseurl }}/assets/dcc/pixel-4.png" alt="北大紫峰" width="40%">
 </div>
 <div style="text-align: center; font-size: 20px;">
   《夜色》
@@ -41,7 +41,7 @@ dcc 的设计中针对**用户生命经验**做了大量的优化，对现有的
 ---
 
 <div align="center">
-  <img src="/assets/dcc/ch-1/cat.png" alt="校园猫猫" width="40%">
+  <img src="{{ site.baseurl }}/assets/dcc/ch-1/cat.png" alt="校园猫猫" width="40%">
 </div>
 
 
@@ -52,7 +52,7 @@ dcc 的设计中针对**用户生命经验**做了大量的优化，对现有的
 
 同学们的创意：提供了一张校园里小猫的照片，并提出了一些对背景的额外要求
 <div align="center">
-  <img src="/assets/dcc/ch-1/cat-base.jpeg" alt="校园猫猫原图" width="40%">
+  <img src="{{ site.baseurl }}/assets/dcc/ch-1/cat-base.jpeg" alt="校园猫猫原图" width="40%">
 </div>
 
 - 想要南大实景（宿舍楼、校道、教学楼等什么都行）	​
@@ -65,7 +65,7 @@ dcc 的设计中针对**用户生命经验**做了大量的优化，对现有的
 ---
 
 <div align="center">
-  <img src="/assets/dcc/ch-1/light.png" alt="天开教泽" width="40%">
+  <img src="{{ site.baseurl }}/assets/dcc/ch-1/light.png" alt="天开教泽" width="40%">
 </div>
 <div style="text-align: center; font-size: 20px;">
   《底色》
@@ -86,7 +86,7 @@ dcc 的设计中针对**用户生命经验**做了大量的优化，对现有的
 ---
 
 <div align="center">
-  <img src="/assets/dcc/ch-2/icon.png" alt="蝴蝶程序员" width="50%">
+  <img src="{{ site.baseurl }}/assets/dcc/ch-2/icon.png" alt="蝴蝶程序员" width="50%">
 </div>
 <div style="text-align: center; font-size: 20px;">
   "Defensive programming"
@@ -98,7 +98,7 @@ C 语言中的 assert 语句是防御性编程的常用技巧，以此作为寄�
 同学们的创意：上传了一张配图
 
 <div align="center">
-  <img src="/assets/dcc/icon-base.jpg" alt="icon base" width="50%">
+  <img src="{{ site.baseurl }}/assets/dcc/icon-base.jpg" alt="icon base" width="50%">
 </div>
 
 并提出了一些额外的需求：
@@ -109,7 +109,7 @@ C 语言中的 assert 语句是防御性编程的常用技巧，以此作为寄�
 
 
 <div align="center">
-  <img src="/assets/dcc/ch-2/checksum.png" alt="checksum" width="50%">
+  <img src="{{ site.baseurl }}/assets/dcc/ch-2/checksum.png" alt="checksum" width="50%">
 </div>
 <div style="text-align: center; font-size: 20px;">
   "Checksum"
@@ -126,7 +126,7 @@ C 语言中的 assert 语句是防御性编程的常用技巧，以此作为寄�
 ---
 
 <div align="center">
-  <img src="/assets/dcc/ch-2/linux.png" alt="Linux" width="50%">
+  <img src="{{ site.baseurl }}/assets/dcc/ch-2/linux.png" alt="Linux" width="50%">
 </div>
 <div style="text-align: center; font-size: 20px;">
   "Tux"
@@ -142,7 +142,7 @@ Tux 不仅是 Linux 的吉祥物，更是开源文化的象征，代表着自由
 
 
 <div align="center">
-  <img src="/assets/dcc/ch-2/2d-world.png" alt="二次元" width="50%">
+  <img src="{{ site.baseurl }}/assets/dcc/ch-2/2d-world.png" alt="二次元" width="50%">
 </div>
 
 不光是本届计算机学院的同学们，整个程序员业界都有不少二次元的粉丝，用动漫人物做头像颇有“技术标签”之势。以同学们喜爱的形象制作书签，送上祝福。希望大家永远能有一份精神支撑，在工作与生活中都保持快乐。
@@ -150,8 +150,11 @@ Tux 不仅是 Linux 的吉祥物，更是开源文化的象征，代表着自由
 ---
 
 <div align="center">
-  <img src="/assets/dcc/ch-2/main.png" alt="同学少年" width="50%">
+  <img src="{{ site.baseurl }}/assets/dcc/ch-2/main.png" alt="同学少年" width="50%">
 </div>
+<!-- <div align="center">
+  <img src="{{ site.baseurl }}{{ site.baseurl }}/assets/dcc/ch-2/main.png" alt="同学少年" width="50%">
+</div> -->
 <div style="text-align: center; font-size: 20px;">
   《同学少年》
 </div>
@@ -172,7 +175,7 @@ Tux 不仅是 Linux 的吉祥物，更是开源文化的象征，代表着自由
 ---
 
 <div align="center">
-  <img src="/assets/dcc/ch-3/next-lap.png" alt="next lap" width="50%">
+  <img src="{{ site.baseurl }}/assets/dcc/ch-3/next-lap.png" alt="next lap" width="50%">
 </div>
 <div style="text-align: center; font-size: 20px;">
   "Next Lap"
@@ -189,7 +192,7 @@ Tux 不仅是 Linux 的吉祥物，更是开源文化的象征，代表着自由
 ---
 
 <div align="center">
-  <img src="/assets/dcc/ch-3/blues.png" alt="星空" width="50%">
+  <img src="{{ site.baseurl }}/assets/dcc/ch-3/blues.png" alt="星空" width="50%">
 </div>
 <div style="text-align: center; font-size: 20px;">
   《星空》
@@ -204,7 +207,7 @@ Tux 不仅是 Linux 的吉祥物，更是开源文化的象征，代表着自由
 ---
 
 <div align="center">
-  <img src="/assets/dcc/ch-3/ruyan.png" alt="如烟" width="50%">
+  <img src="{{ site.baseurl }}/assets/dcc/ch-3/ruyan.png" alt="如烟" width="50%">
 </div>
 <div style="text-align: center; font-size: 20px;">
   《星星太阳万物都听我的指挥》
@@ -219,7 +222,7 @@ Tux 不仅是 Linux 的吉祥物，更是开源文化的象征，代表着自由
 ---
 
 <div align="center">
-  <img src="/assets/dcc/ch-3/juzhe.png" alt="juzhe" width="50%">
+  <img src="{{ site.baseurl }}/assets/dcc/ch-3/juzhe.png" alt="juzhe" width="50%">
 </div>
 <div style="text-align: center; font-size: 20px;">
   《愿保持终生的学习和思考》
@@ -228,7 +231,7 @@ Tux 不仅是 Linux 的吉祥物，更是开源文化的象征，代表着自由
 ---
 
 <div align="center">
-  <img src="/assets/dcc/ch-3/green.png" alt="juzhe" width="50%">
+  <img src="{{ site.baseurl }}/assets/dcc/ch-3/green.png" alt="juzhe" width="50%">
 </div>
 <div style="text-align: center; font-size: 20px;">
   《生生不息》
